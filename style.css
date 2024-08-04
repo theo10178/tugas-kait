@@ -1,0 +1,94 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+
+.wadaw {
+    background-color: rgb(46, 27, 56);
+    width: 100%;
+    height: 10vh;
+}
+
+.image {
+    background-color: rgb(21, 19, 27);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+
+.koceng {
+    height: 60%;
+    width: 40%;
+}
+
+.ul-navbar {
+   justify-content: center;
+   height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.li-navbar {
+    list-style-type: none;
+    padding: 20px;
+    margin: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+.li-navbar:hover {
+    background: rgb(95, 48, 121);
+    transition: .2s ease-in-out;
+}
+
+.www {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.wlee {
+    height: 10vh;
+    background-color: rgb(46, 27, 56);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img {
+    justify-content: center;
+    height: 100px;
+     display: flex;
+     align-items: center;
+}
+
+.muka {
+    height: 50%;
+    padding-left: 20px;
+    padding-top: 50px;
+}
+
+.theo {
+    font-size: 35px;
+    color: white;
+}
+
+.hai {
+    font-size: 25px;
+    color: white;
+}
+
+
+.hihi {
+    background-color: rgb(21, 19, 27);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}
+
+.about {
+    padding-left: 25px;
+}
